@@ -7,7 +7,6 @@ var typed = new Typed('.multiple', {
       'Frontend Developer',
       'Youtuber',
       'Gamer',
-      'Have a great day!',
     ],
     stringsElement: null,
   
